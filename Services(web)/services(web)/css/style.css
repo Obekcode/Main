@@ -49,6 +49,24 @@ a {
   background-size: cover;
 }
 
+.IT_consultancy-page-header {
+  background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
+    url(/add_images/IT\ consultancy.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.networking-page-header {
+  background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
+    url(/add_images/networking-page-header.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.software-page-header {
+  background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
+    url(/add_images/software\ installation-header.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 .form-select:focus {
   border-color: #d5baa1;
   outline: 0;
