@@ -67,6 +67,12 @@ a {
   background-size: cover;
 }
 
+.media-page-header {
+  background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
+    url(/add_images/mediawork.jpg) center center no-repeat;
+  background-size: cover;
+}
+
 .form-select:focus {
   border-color: #d5baa1;
   outline: 0;
