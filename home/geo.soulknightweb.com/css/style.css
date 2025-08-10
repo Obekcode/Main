@@ -1347,7 +1347,7 @@ textarea.form-control {
 
 .footer {
   background: linear-gradient(rgba(53, 53, 53, 0.7), rgba(53, 53, 53, 0.7)),
-    url(../img/banner/footer.jpg) center center no-repeat;
+    url(/add_images/footee.jpg) center center no-repeat;
   background-size: cover;
 }
 
